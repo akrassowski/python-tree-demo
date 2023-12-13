@@ -6,6 +6,6 @@ Here’s the code to draw a Christmas tree by publishing some Triangles, Squares
 
 * Ensure you have the Python API for Connext installed
 
-* Copy the QoS file and tree.py file locally
+* Copy the XML files and tree.py file locally
 
 * run as: python tree.py
